@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+AutoScore/__pycache__/
+examples/__pycache__/
+examples/test_MIMIC.py
+examples/test_SGH.py
