@@ -14,10 +14,7 @@ Here we present the Python implementation of AutoScore for clinical data with bi
 
 Package Installation
 ---
-* Install AutoScore from pip **(Recommended)**
-```
-pip install AutoScore
-```
+
 * Install AutoScore from this GitHub repository
 ```
 pip install git+https://github.com/nliulab/AutoScore-Python
